@@ -40,7 +40,7 @@ A sample demonstrate the soloader library issues when used in Android App Bundle
 
 * run app and then press the bottom right fab button try load **yoga** library. Ops, crash...
 
-  <img src="/Users/didi/Code/Github/YogaIssues/screenshot/1631850290379.jpg" alt="1631850290379" style="zoom:50%;" /> 
+  <img src="./screenshot/1631850290379.jpg" alt="1631850290379" style="zoom:50%;" /> 
 
 ## Probably Reason
 
